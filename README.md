@@ -11,3 +11,6 @@ This project welcomes community contributions. It uses git to manage the source 
 1. Clone this repository using git
 2. modify the source files
 3. submit a change request to the repository (GitHub calls these "Pull Requests")
+
+### Quick contributing
+If the above scares you, try contributing with GitHub's included editor. Navigate to https://github.com/fx-wood/merryall-manse and edit one of the markdown files in the jekyll-site directory.
