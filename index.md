@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![merryall-manse-1955](/jekyll-site/assets/img/merryall-manse-1955.jpeg) |
+| ![merryall-manse-1955](/assets/img/merryall-manse-1955.jpeg) |
 | :--: |
 | Merryall Manse in 1955 |
 
