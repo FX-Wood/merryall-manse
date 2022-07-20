@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the website for the Merryall Manse Community. It's maintained 
   by Merryall Manse, Inc. as well as members of the community. Contributions
   are welcome! Please drop by our [GitHub](https://github.com/fx-wood/merryall-manse) to make changes. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/merryall-manse" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
