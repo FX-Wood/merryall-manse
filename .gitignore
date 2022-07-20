@@ -1,6 +1,9 @@
+# jekyll files
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 
+# macOS files
+.DS_Store
